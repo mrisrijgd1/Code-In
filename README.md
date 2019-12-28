@@ -51,5 +51,8 @@ medianx_exclude = median(e_commerce_exclude$behavNumVisits)
 meanx_exclude-medianx_exclude
 # 0.7091709
 ```
+# Screen Cast
+![Record](http://g.recordit.co/BRuaL5MZVm.gif)
+
 # Authors
 -Mridul
