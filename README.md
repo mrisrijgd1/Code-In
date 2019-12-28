@@ -1,4 +1,8 @@
+# Introduction
+
 This is my work from the Google Code-In
+
+
 ```
 # Task 2
 
@@ -47,3 +51,5 @@ medianx_exclude = median(e_commerce_exclude$behavNumVisits)
 meanx_exclude-medianx_exclude
 # 0.7091709
 ```
+# Authors
+-Mridul
