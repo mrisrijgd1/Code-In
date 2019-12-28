@@ -1,6 +1,7 @@
 # Introduction
 
-This is my work from the Google Code-In
+This is my work from the Google Code-In.
+This is how to explore E-commerce Data.
 
 # Requirements
 
