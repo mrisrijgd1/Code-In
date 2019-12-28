@@ -14,6 +14,8 @@ This is how to explore E-commerce Data.
 ```
 # Task 2
 
+#Exploring E-Commerce Data
+
 library(dplyr)
 
 # Reading E Commerce Data
