@@ -7,7 +7,7 @@ This is how to explore E-commerce Data.
 
 - R
 - RStudio
-- Dplyr
+- dplyr
 
 # Code Description
 
