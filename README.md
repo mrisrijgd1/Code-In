@@ -3,8 +3,9 @@
 This is my work from the Google Code-In
 
 # Required
--R
--RStudio
+
+- R
+- RStudio
 
 # Code Description
 
