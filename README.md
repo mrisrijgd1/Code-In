@@ -2,7 +2,7 @@
 
 This is my work from the Google Code-In
 
-# Required
+# Requirements
 
 - R
 - RStudio
